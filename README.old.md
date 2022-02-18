@@ -1,1 +1,0 @@
-# coin-wallet-front

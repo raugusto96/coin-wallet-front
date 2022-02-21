@@ -1,0 +1,25 @@
+{
+  "expenses": [
+    {
+      "id": 1,
+      "value": 54,
+      "description": "Comprar carne",
+      "category": "Alimentação",
+      "date": "hoje"
+    },
+    {
+      "id": 2,
+      "value": 322,
+      "description": "Comprar SSD",
+      "category": "Trabalho",
+      "date": "hoje"
+    },
+    {
+      "id": 3,
+      "value": 4322,
+      "description": "Notebook novo",
+      "category": "Trabalho",
+      "date": "hoje"
+    }
+  ]
+}

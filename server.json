@@ -3,21 +3,24 @@
     {
       "id": 1,
       "value": 54,
-      "description": "Comprar carne",
+      "title": "Comprar carne",
+      "type": "withdraw",
       "category": "Alimentação",
       "date": "hoje"
     },
     {
       "id": 2,
       "value": 322,
-      "description": "Comprar SSD",
+      "title": "Comprar SSD",
+      "type": "withdraw",
       "category": "Trabalho",
       "date": "hoje"
     },
     {
       "id": 3,
       "value": 4322,
-      "description": "Notebook novo",
+      "title": "Criação de um site",
+      "type": "withdraw",
       "category": "Trabalho",
       "date": "hoje"
     }
